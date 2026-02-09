@@ -1,7 +1,7 @@
 const CUSTOMER_SITES = {
-    qiqi: {
+    360: {
         api: 'https://360zy.com/api.php/provide/vod/',
-        name: '360|点播',
+        name: '360点播',
     }
 };
 
